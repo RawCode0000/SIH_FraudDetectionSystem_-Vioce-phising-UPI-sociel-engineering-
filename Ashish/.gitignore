@@ -1,0 +1,44 @@
+# SentinX AI Developer Module — .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Generated outputs (keep the committed samples, ignore re-runs)
+# Uncomment below if you don't want to track generated files:
+# synthetic_transactions.csv
+# sample_audios/*.mp3
