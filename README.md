@@ -1,0 +1,2 @@
+# SIH_FraudDetectionSystem_-Vioce-phising-UPI-sociel-engineering-
+SIH project Fraud detection System. Project secures a user from sociel engineering. Nower days AI voice is being used to mimic a close relative or close circule people and a demand of money is made in the name of urgency and emergency. Our project is webapp detects the voice and informs weather the caller is legitmate or not by monitering patterns.
